@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://yourusername.github.io';
+export const SITE_URL = 'https://lawrence-777.github.io/Personal-Website';
 
 export const NAV_LINKS = [
   { href: '/', label: '首页' },
